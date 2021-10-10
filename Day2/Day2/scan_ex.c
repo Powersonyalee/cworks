@@ -1,0 +1,28 @@
+
+
+# include <stdio.h> 
+
+int main() {
+
+	// 제곱수 계산; x(입력값) -> x*x
+
+	// int x = 4;
+	// printf("%d\n", x * x);
+
+	int x, n1, n2;
+	
+	printf("숫자를 입력해 주세요:  ");
+	scanf_s("%d", &x); 
+	printf("%d\n", x*x);
+	printf("x의 주소값 : 0x%x\n", &x);
+
+	// 두 수의 차 구하기
+	printf("두 개의 숫자를 입력해 주세요:  ");
+	scanf_s("%d %d", &n1, &n2);
+	printf("%d\n", n1-n2);
+	//printf("n1의 주소값 : 0x%x\n", &n1);
+	//printf("n2의 주소값 : 0x%x\n", &n2);
+
+	return 0;
+
+}

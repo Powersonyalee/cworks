@@ -1,0 +1,4 @@
+﻿  type_convestion.c
+C:\devC\day01\day01\type_convestion.c(20,12): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\devC\day01\day01\type_convestion.c(9,1): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  day01.vcxproj -> C:\devC\day01\Debug\day01.exe
