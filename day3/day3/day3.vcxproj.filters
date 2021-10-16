@@ -24,5 +24,32 @@
     <ClCompile Include="sum1to10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="roof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="banking.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="switch_ex2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calc_c.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gugudan.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nestedfor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nestedfor2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

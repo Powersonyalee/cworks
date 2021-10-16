@@ -13,17 +13,14 @@ int main() {
 	while (n <= 10) {
 		sum = sum + n;
 		printf("n=%d, sum=%d\n", n, sum);
-		n ++;
-
-	}
+		n=n+1;
+			}
 		printf("sum=%d\n", sum);
 /* n = n + 1;	// 1(sum)
 	n += n ;	// 3
 	n += n ;  //6
 	n += n ; //10 
 	*/
-
-	
 
 
 	return 0;
