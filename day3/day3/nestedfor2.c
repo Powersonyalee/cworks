@@ -14,11 +14,9 @@ int main() {
 		
 		for (j = 1; j < 6; j++) {
 			num = i * 5 + j;
-
 			printf("%d ", num);
 		}
 		printf("\n");
 	}
-
 	return 0;
 }
