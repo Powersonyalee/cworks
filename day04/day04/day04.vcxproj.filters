@@ -21,5 +21,38 @@
     <ClCompile Include="array2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="alphabet.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array_copy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="function1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="function_return.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="math_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="time_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rand_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="localvar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="staticvar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
