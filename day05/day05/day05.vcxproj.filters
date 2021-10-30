@@ -24,5 +24,38 @@
     <ClCompile Include="char2d.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="myabs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_func.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="intpoint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="callbyref.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="medalcolour.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_pointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array_pointer2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sayhello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

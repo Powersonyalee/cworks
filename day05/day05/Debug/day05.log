@@ -1,6 +1,7 @@
-﻿  char2d.c
-C:\devC\day05\day05\char2d.c(17,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char (*)[10]'입니다.
-C:\devC\day05\day05\char2d.c(18,9): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char (*)[10]'입니다.
-C:\devC\day05\day05\char2d.c(24,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
-C:\devC\day05\day05\char2d.c(7,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+﻿  medalcolour.c
+C:\devC\day05\day05\medalcolour.c(11,23): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\devC\day05\day05\medalcolour.c(14,20): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\devC\day05\day05\medalcolour.c(17,20): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\devC\day05\day05\medalcolour.c(20,20): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\devC\day05\day05\medalcolour.c(23,9): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
   day05.vcxproj -> C:\devC\day05\Debug\day05.exe

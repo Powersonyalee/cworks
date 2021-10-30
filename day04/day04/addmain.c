@@ -1,5 +1,5 @@
 # include <stdio.h>
-# include "add.h"
+# include "add.h" // 만드건 쌍따로
 
 int main() {
 
@@ -7,7 +7,7 @@ int main() {
 	a = 1; 
 	b = 2;
 
-	result = add(a, b);
+	result = add_func(a, b);
 	printf("합계 : %d\n", result);
 	
 	return 0;

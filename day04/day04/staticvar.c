@@ -12,9 +12,12 @@ void count() {
 
 int main() {
 
-	count();
-	count();
+	//x(정적변수)는 소멸되지 않고, 유지됨
+	//y(지역변수)는 계산후 소멸(해체)
 
+	count();
+	count();
+	count();
 	return 0;
 }
 
