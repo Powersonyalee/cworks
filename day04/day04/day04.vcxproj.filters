@@ -54,5 +54,22 @@
     <ClCompile Include="staticvar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="globalvar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="addmain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="find_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="add.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
