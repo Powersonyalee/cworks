@@ -1,7 +1,7 @@
 ﻿  medalcolour.c
-C:\devC\day05\day05\medalcolour.c(11,23): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\devC\day05\day05\medalcolour.c(11,20): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
 C:\devC\day05\day05\medalcolour.c(14,20): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
 C:\devC\day05\day05\medalcolour.c(17,20): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
 C:\devC\day05\day05\medalcolour.c(20,20): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
-C:\devC\day05\day05\medalcolour.c(23,9): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
-  day05.vcxproj -> C:\devC\day05\Debug\day05.exe
+C:\devC\day05\day05\medalcolour.c(35,5): error C2084: 'int main()' 함수에 이미 본문이 있습니다.
+C:\devC\day05\day05\medalcolour.c(3): message : 'main'의 이전 정의를 참조하십시오.
