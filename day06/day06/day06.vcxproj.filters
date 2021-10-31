@@ -63,6 +63,9 @@
     <ClCompile Include="person_a.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fwrite_ex.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="eyesight.h">
