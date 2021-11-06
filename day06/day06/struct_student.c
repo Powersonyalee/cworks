@@ -1,6 +1,10 @@
+
+
 # define _CRT_SECURE_NO_WARNINGS 
 # include <stdio.h>
 # include <string.h>
+
+
 
 //struct 구조체 자료형 정의
 struct Student {
@@ -14,7 +18,9 @@ int main() {
 	s1.number = 101; //초기화
 	//s1.name ="강하늘" ; // 상수라 할당이 되지 않음 함수로 써야
 
-	strcpy(s1.name, "강하늘"); // s1.name이 포인터로 나와있음
+	strcpy(s1.name, "강하늘"); //  s1.name이 포인터로 나와있음 
+							//(의미)s1.name메모리에 복사한다!! 
+	//	s1.name은 주소이므로 포인터. 즉 "강하늘" 넣을 수 없음
 	s1.weight = 62.3;
 
 	printf("학번 : %d\n", s1.number);
@@ -30,7 +36,15 @@ int main() {
 	s2.weight = 99;
 	printf("학번 : %d\n", s2.number);
 	printf("이름 : %s\n", s2.name);
-	printf("몸무게 : %3.1lf\n", s.weight);
+	printf("몸무게 : %3.1lf\n", s2.weight);
+
+
+
+	struct Student s3 = { 103,"이우주",73.5 };
+	printf("학번 : %d\n", s3.number);
+	printf("이름 : %s\n", s3.name);
+	printf("몸무게 : %3.1lf\n", s3.weight);
+
 	return 0;
 }
 

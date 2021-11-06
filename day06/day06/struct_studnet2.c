@@ -1,3 +1,4 @@
+/*
 # define _CRT_SECURE_NO_WARNINGS 
 # include <stdio.h>
 # include <string.h>
@@ -19,6 +20,9 @@ int main() {
 	};
 	
 
+	
+
+
 	for (i = 0; i < 3; i++) {
 	printf("학번 : %d\n", s[i].number);
 	printf("이름 : %s\n", s[i].name);
@@ -29,3 +33,4 @@ int main() {
 	return 0;
 }
 
+*/

@@ -1,0 +1,34 @@
+﻿  circle_main.c
+  findmax_pointer.c
+  fwrite_ex.c
+  malloc_ex2.c
+  malloc_ex3.c
+  malloc_getname.c
+C:\devC\day06\day06\malloc_getname.c(33,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  melloc_ex.c
+  memory_field.c
+  person_a.c
+  score_main.c
+  struct_eyesight.c
+  struct_ref.c
+  struct_student.c
+  struct_studnet2.c
+  struct_three_d.c
+  swapbyref.c
+  typedef_three_d.c
+findmax_pointer.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+fwrite_ex.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+malloc_ex2.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+malloc_ex3.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+malloc_getname.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+melloc_ex.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+memory_field.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+person_a.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+score_main.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+struct_eyesight.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+struct_ref.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+struct_student.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+struct_three_d.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+swapbyref.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+typedef_three_d.obj : error LNK2005: _main이(가) circle_main.obj에 이미 정의되어 있습니다.
+C:\devC\day06\Release\day06.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
