@@ -12,7 +12,7 @@ int main() {
 	}
 
 	int ch = 0;
-	while ((ch = fgetc(fp)) != EOF) {
+	while ((ch = fgetc(fp)) != EOF) {   //fp의 주소가 0 부터 시작하므로, -1이 나온다는건 가져올게 없단것
 		putchar(ch);
 
 	}
