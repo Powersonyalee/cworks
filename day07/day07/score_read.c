@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 
 int main() {
 
@@ -27,4 +27,4 @@ int main() {
 	fprintf(stdout, "%s %d %d %d\n", name, kor, eng, math); //모니터에 쓰기
 	fclose(fp);
 	return 0;
-}*/
+}
